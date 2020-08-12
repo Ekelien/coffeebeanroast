@@ -100,3 +100,23 @@ footer {
     top: 177px;
     z-index: 0;
 }
+#select_td_1{
+    width:"15%";
+}
+#select_td_2{
+    width:"61%";
+}
+#select_td_3{
+    width:"24%";
+    align:center;
+}
+#tbl_1{
+    width:"80%";
+}
+#tbl_2{
+    width: "20%";
+    align:left;
+}
+#Comments{
+    align:center;
+}
